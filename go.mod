@@ -3,6 +3,7 @@ module github.com/Adit0507/event-driven-notification
 go 1.24.5
 
 require (
+	github.com/google/uuid v1.6.0
 	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 	github.com/prometheus/client_golang v1.23.0 // indirect
